@@ -4,11 +4,31 @@
 👋🏻 그날그날 공부한 내용에 대해 기록합니다.<br/>
 👋🏻 그날그날 푼 알고리즘 문제 리스트를 기록합니다. (풀이 저장소 👉 [Velog@Beanxx](https://velog.io/@tnqls1211v))
 
-### Javascript
-1️⃣ [변수](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.26-Day1.md)
+### ☑️ Javascript
+1️⃣ [변수](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.26-Day1.md#1%EF%B8%8F%E2%83%A3-%EB%B3%80%EC%88%98) <br/>
+2️⃣ [타입](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.26-Day1.md#2%EF%B8%8F%E2%83%A3-%ED%83%80%EC%9E%85) <br/>
+3️⃣ [함수](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.26-Day1.md#3%EF%B8%8F%E2%83%A3-%ED%95%A8%EC%88%98) <br/>
+4️⃣ [조건문](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.27-Day2.md#1%EF%B8%8F%E2%83%A3%EC%A1%B0%EA%B1%B4%EB%AC%B8) <br/>
+5️⃣ [문자열](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.27-Day2.md#2%EF%B8%8F%E2%83%A3%EB%AC%B8%EC%9E%90%EC%97%B4) <br/>
+6️⃣ [반복문](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.28-Day3.md#1%EF%B8%8F%E2%83%A3%EB%B0%98%EB%B3%B5%EB%AC%B8iteration) <br/>
+7️⃣ [배열](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.10-Day11.md#%EF%B8%8F-%EB%B0%B0%EC%97%B4) <br/>
+8️⃣ [객체](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.11-Day12.md#%EF%B8%8F%EA%B0%9D%EC%B2%B4)
 
+<br/>
 
+### ☑️ HTML/CSS
+1️⃣ [HTML](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.29-Day4.md) <br/>
+2️⃣ [Semantic 요소](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.29-Day4.md#%EC%8B%9C%EB%A7%A8%ED%8B%B1semantic-%EC%9A%94%EC%86%8C) <br/>
+3️⃣ [CSS](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#1%EF%B8%8F%E2%83%A3css-cascading-style-sheets) <br/>
+4️⃣ [Box-Model](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#2%EF%B8%8F%E2%83%A3%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B8) <br/>
+5️⃣ [CSS Selector](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#3%EF%B8%8F%E2%83%A3css-selector) <br/>
+6️⃣ [Layout](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#1%EF%B8%8F%E2%83%A3layout) <br/>
+7️⃣ [Flexbox](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#2%EF%B8%8F%E2%83%A3flexbox)
 
-### HTML/CSS
+<br/>
 
-### etc
+### ☑️ etc
+1️⃣ [CLI(Command-Line Interface)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#1%EF%B8%8F%E2%83%A3clicommand-line-interface) <br/>
+2️⃣ [Package & Package-Manager](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#2%EF%B8%8F%E2%83%A3%ED%8C%A8%ED%82%A4%EC%A7%80--%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80) <br/>
+3️⃣ [Node.js](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#3%EF%B8%8F%E2%83%A3nodejs) <br/>
+4️⃣ [Git](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#4%EF%B8%8F%E2%83%A3git)
