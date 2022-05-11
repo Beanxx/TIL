@@ -18,12 +18,11 @@
 
 ### ☑️ HTML/CSS
 1️⃣ [HTML](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.29-Day4.md) <br/>
-2️⃣ [Semantic 요소](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.29-Day4.md#%EC%8B%9C%EB%A7%A8%ED%8B%B1semantic-%EC%9A%94%EC%86%8C) <br/>
-3️⃣ [CSS](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#1%EF%B8%8F%E2%83%A3css-cascading-style-sheets) <br/>
-4️⃣ [Box-Model](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#2%EF%B8%8F%E2%83%A3%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B8) <br/>
-5️⃣ [CSS Selector](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#3%EF%B8%8F%E2%83%A3css-selector) <br/>
-6️⃣ [Layout](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#1%EF%B8%8F%E2%83%A3layout) <br/>
-7️⃣ [Flexbox](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#2%EF%B8%8F%E2%83%A3flexbox)
+2️⃣ [CSS](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#1%EF%B8%8F%E2%83%A3css-cascading-style-sheets) <br/>
+3️⃣ [Box-Model](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#2%EF%B8%8F%E2%83%A3%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B8) <br/>
+4️⃣ [CSS Selector](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#3%EF%B8%8F%E2%83%A3css-selector) <br/>
+5️⃣ [Layout](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#1%EF%B8%8F%E2%83%A3layout) <br/>
+6️⃣ [Flexbox](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#2%EF%B8%8F%E2%83%A3flexbox)
 
 <br/>
 
