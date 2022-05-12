@@ -12,7 +12,10 @@
 5️⃣ [문자열](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.27-Day2.md#2%EF%B8%8F%E2%83%A3%EB%AC%B8%EC%9E%90%EC%97%B4) <br/>
 6️⃣ [반복문](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.04.28-Day3.md#1%EF%B8%8F%E2%83%A3%EB%B0%98%EB%B3%B5%EB%AC%B8iteration) <br/>
 7️⃣ [배열](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.10-Day11.md#%EF%B8%8F-%EB%B0%B0%EC%97%B4) <br/>
-8️⃣ [객체](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.11-Day12.md#%EF%B8%8F%EA%B0%9D%EC%B2%B4)
+8️⃣ [객체](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.11-Day12.md#%EF%B8%8F%EA%B0%9D%EC%B2%B4) <br/>
+9️⃣ [원시 자료형 & 참조 자료형](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.12-Day13.md#1%EF%B8%8F%E2%83%A3%EC%9B%90%EC%8B%9C-%EC%9E%90%EB%A3%8C%ED%98%95--%EC%B0%B8%EC%A1%B0-%EC%9E%90%EB%A3%8C%ED%98%95) <br/>
+🔟 [Scope](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.12-Day13.md#2%EF%B8%8F%E2%83%A3%EC%8A%A4%EC%BD%94%ED%94%84) <br/>
+1️⃣1️⃣ [Closure](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.12-Day13.md#3%EF%B8%8F%E2%83%A3%ED%81%B4%EB%A1%9C%EC%A0%80closure) <br/>
 
 <br/>
 
