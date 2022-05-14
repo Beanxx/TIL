@@ -16,6 +16,9 @@
 9️⃣ [원시 자료형 & 참조 자료형](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.12-Day13.md#1%EF%B8%8F%E2%83%A3%EC%9B%90%EC%8B%9C-%EC%9E%90%EB%A3%8C%ED%98%95--%EC%B0%B8%EC%A1%B0-%EC%9E%90%EB%A3%8C%ED%98%95) <br/>
 🔟 [Scope](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.12-Day13.md#2%EF%B8%8F%E2%83%A3%EC%8A%A4%EC%BD%94%ED%94%84) <br/>
 1️⃣1️⃣ [Closure](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.12-Day13.md#3%EF%B8%8F%E2%83%A3%ED%81%B4%EB%A1%9C%EC%A0%80closure) <br/>
+1️⃣2️⃣ [spread](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#spread-%EB%AC%B8%EB%B2%95) <br/>
+1️⃣3️⃣ [rest](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#rest-%EB%AC%B8%EB%B2%95) <br/>
+1️⃣4️⃣ [구조분해할당](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4%ED%95%A0%EB%8B%B9)
 
 <br/>
 
@@ -26,9 +29,7 @@
 4️⃣ [CSS Selector](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#3%EF%B8%8F%E2%83%A3css-selector) <br/>
 5️⃣ [Layout](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#1%EF%B8%8F%E2%83%A3layout) <br/>
 6️⃣ [Flexbox](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#2%EF%B8%8F%E2%83%A3flexbox) <br/>
-7️⃣ [spread](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#spread-%EB%AC%B8%EB%B2%95) <br/>
-8️⃣ [rest](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#rest-%EB%AC%B8%EB%B2%95) <br/>
-9️⃣ [구조분해할당](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4%ED%95%A0%EB%8B%B9)
+
 
 <br/>
 
