@@ -25,7 +25,10 @@
 3️⃣ [Box-Model](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#2%EF%B8%8F%E2%83%A3%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B8) <br/>
 4️⃣ [CSS Selector](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#3%EF%B8%8F%E2%83%A3css-selector) <br/>
 5️⃣ [Layout](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#1%EF%B8%8F%E2%83%A3layout) <br/>
-6️⃣ [Flexbox](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#2%EF%B8%8F%E2%83%A3flexbox)
+6️⃣ [Flexbox](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#2%EF%B8%8F%E2%83%A3flexbox) <br/>
+7️⃣ [spread](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#spread-%EB%AC%B8%EB%B2%95) <br/>
+8️⃣ [rest](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#rest-%EB%AC%B8%EB%B2%95) <br/>
+9️⃣ [구조분해할당](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4%ED%95%A0%EB%8B%B9)
 
 <br/>
 
