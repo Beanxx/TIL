@@ -41,4 +41,5 @@
 1️⃣ [CLI(Command-Line Interface)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#1%EF%B8%8F%E2%83%A3clicommand-line-interface) <br/>
 2️⃣ [Package & Package-Manager](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#2%EF%B8%8F%E2%83%A3%ED%8C%A8%ED%82%A4%EC%A7%80--%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80) <br/>
 3️⃣ [Node.js](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#3%EF%B8%8F%E2%83%A3nodejs) <br/>
-4️⃣ [Git](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#4%EF%B8%8F%E2%83%A3git)
+4️⃣ [Git(1)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#4%EF%B8%8F%E2%83%A3git)
+5️⃣ [Git(2)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.19-Day18.md#%EF%B8%8Flocal-repository)
