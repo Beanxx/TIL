@@ -21,8 +21,10 @@
 1️⃣2️⃣ [spread](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#spread-%EB%AC%B8%EB%B2%95) <br/>
 1️⃣3️⃣ [rest](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#rest-%EB%AC%B8%EB%B2%95) <br/>
 1️⃣4️⃣ [구조분해할당](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.13-Day14.md#%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4%ED%95%A0%EB%8B%B9) <br/>
-1️⃣5️⃣ [DOM](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.17-Day16.md#%EF%B8%8Fdom-%EA%B8%B0%EC%B4%88)
-1️⃣6️⃣ [Event](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.19-Day18.md#%EF%B8%8Flocal-repository)
+1️⃣5️⃣ [DOM](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.17-Day16.md#%EF%B8%8Fdom-%EA%B8%B0%EC%B4%88) <br/>
+1️⃣6️⃣ [Event](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.19-Day18.md#%EF%B8%8Flocal-repository)<br/>
+1️⃣7️⃣ [고차 함수](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.24-Day21.md#1%EF%B8%8F%E2%83%A3%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98) <br/>
+1️⃣7️⃣ [내장 고차 함수(filter, map, reduce)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.24-Day21.md#2%EF%B8%8F%E2%83%A3%EB%82%B4%EC%9E%A5-%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98)
 
 <br/>
 
