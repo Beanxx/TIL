@@ -24,7 +24,11 @@
 1️⃣5️⃣ [DOM](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.17-Day16.md#%EF%B8%8Fdom-%EA%B8%B0%EC%B4%88) <br/>
 1️⃣6️⃣ [Event](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.19-Day18.md#%EF%B8%8Flocal-repository)<br/>
 1️⃣7️⃣ [고차 함수](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.24-Day21.md#1%EF%B8%8F%E2%83%A3%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98) <br/>
-1️⃣7️⃣ [내장 고차 함수(filter, map, reduce)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.24-Day21.md#2%EF%B8%8F%E2%83%A3%EB%82%B4%EC%9E%A5-%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98)
+1️⃣7️⃣ [내장 고차 함수(filter, map, reduce)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.24-Day21.md#2%EF%B8%8F%E2%83%A3%EB%82%B4%EC%9E%A5-%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98) <br/>
+1️⃣8️⃣ [객체 지향](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#1%EF%B8%8F%E2%83%A3%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5) <br/>
+1️⃣9️⃣ [Class](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#%EF%B8%8Fclass) <br/>
+2️⃣0️⃣ [Instance](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#%EF%B8%8Finstance) <br/>
+2️⃣1️⃣ [Prototype](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#2%EF%B8%8F%E2%83%A3prototype)
 
 <br/>
 
@@ -44,5 +48,5 @@
 1️⃣ [CLI(Command-Line Interface)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#1%EF%B8%8F%E2%83%A3clicommand-line-interface) <br/>
 2️⃣ [Package & Package-Manager](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#2%EF%B8%8F%E2%83%A3%ED%8C%A8%ED%82%A4%EC%A7%80--%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80) <br/>
 3️⃣ [Node.js](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#3%EF%B8%8F%E2%83%A3nodejs) <br/>
-4️⃣ [Git(1)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#4%EF%B8%8F%E2%83%A3git)
-5️⃣ [Git(2)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.19-Day18.md#%EF%B8%8Flocal-repository)
+4️⃣ [Git (1)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#4%EF%B8%8F%E2%83%A3git) <br/>
+5️⃣ [Git (2)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.19-Day18.md#%EF%B8%8Flocal-repository)
