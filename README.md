@@ -25,10 +25,6 @@
 1️⃣6️⃣ [Event](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.19-Day18.md#%EF%B8%8Flocal-repository)<br/>
 1️⃣7️⃣ [고차 함수](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.24-Day21.md#1%EF%B8%8F%E2%83%A3%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98) <br/>
 1️⃣7️⃣ [내장 고차 함수(filter, map, reduce)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.24-Day21.md#2%EF%B8%8F%E2%83%A3%EB%82%B4%EC%9E%A5-%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98) <br/>
-1️⃣8️⃣ [객체 지향](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#1%EF%B8%8F%E2%83%A3%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5) <br/>
-1️⃣9️⃣ [Class](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#%EF%B8%8Fclass) <br/>
-2️⃣0️⃣ [Instance](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#%EF%B8%8Finstance) <br/>
-2️⃣1️⃣ [Prototype](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#2%EF%B8%8F%E2%83%A3prototype)
 
 <br/>
 
@@ -39,11 +35,22 @@
 3️⃣ [Box-Model](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#2%EF%B8%8F%E2%83%A3%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B8) <br/>
 4️⃣ [CSS Selector](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.02-Day6.md#3%EF%B8%8F%E2%83%A3css-selector) <br/>
 5️⃣ [Layout](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#1%EF%B8%8F%E2%83%A3layout) <br/>
-6️⃣ [Flexbox](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#2%EF%B8%8F%E2%83%A3flexbox) <br/>
+6️⃣ [Flexbox](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.03-Day7.md#2%EF%B8%8F%E2%83%A3flexbox)
 
 <br/>
 
-### ☑️ etc
+### ☑️ OOP
+
+1️⃣ [객체 지향](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#1%EF%B8%8F%E2%83%A3%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5) <br/>
+2️⃣ [Class](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#%EF%B8%8Fclass) <br/>
+3️⃣ [Instance](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#%EF%B8%8Finstance) <br/>
+4️⃣ [Prototype](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.25-Day22.md#2%EF%B8%8F%E2%83%A3prototype) <br/>
+5️⃣ [프로토타입 체인](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.26-Day23.md#%EF%B8%8F%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B2%B4%EC%9D%B8) <br/>
+6️⃣ [extends & super](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.26-Day23.md#%EF%B8%8Fextends--super) <br/>
+
+<br/>
+
+### ☑️ ETC
 
 1️⃣ [CLI(Command-Line Interface)](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#1%EF%B8%8F%E2%83%A3clicommand-line-interface) <br/>
 2️⃣ [Package & Package-Manager](https://github.com/Beanxx/TIL/blob/main/%5BTIL%5D%202022.05.09-Day10.md#2%EF%B8%8F%E2%83%A3%ED%8C%A8%ED%82%A4%EC%A7%80--%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80) <br/>
