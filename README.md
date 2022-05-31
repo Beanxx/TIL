@@ -25,6 +25,7 @@
 1️⃣6️⃣ [내장 고차 함수(filter, map, reduce)](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.24-Day21.md#2%EF%B8%8F%E2%83%A3%EB%82%B4%EC%9E%A5-%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98) <br/>
 1️⃣7️⃣ [비동기(asynchronous)-callback, Promise, async/await](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.27-Day24.md#%EF%B8%8F%EB%B9%84%EB%8F%99%EA%B8%B0asynchronous) <br/>
 1️⃣7️⃣ [fs module](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.30-Day25.md#nodejs-%EB%82%B4%EC%9E%A5-%EB%AA%A8%EB%93%88built-in-module) <br/>
+1️⃣8️⃣ [fetch API](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.31-Day26.md#%EF%B8%8Ffetch-api)
 
 <br/>
 
