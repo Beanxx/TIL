@@ -2,8 +2,9 @@
 
 ✍🏻 Today I Learned
 
-👋🏻 그날그날 공부한 내용에 대해 기록합니다.<br/>
-👋🏻 풀기 어려웠던 알고리즘 문제 풀이 과정을 기록합니다. (풀이 저장소 👉 [Velog@Beanxx](https://velog.io/@tnqls1211v))
+👋🏻 그날그날 공부한 내용에 대해 기록합니다. 👉 [Velog@Beanxx](https://velog.io/@tnqls1211v)
+
+<br/>
 
 ### ☑️ Javascript
 
@@ -25,7 +26,20 @@
 1️⃣6️⃣ [내장 고차 함수(filter, map, reduce)](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.24-Day21.md#2%EF%B8%8F%E2%83%A3%EB%82%B4%EC%9E%A5-%EA%B3%A0%EC%B0%A8-%ED%95%A8%EC%88%98) <br/>
 1️⃣7️⃣ [비동기(asynchronous)-callback, Promise, async/await](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.27-Day24.md#%EF%B8%8F%EB%B9%84%EB%8F%99%EA%B8%B0asynchronous) <br/>
 1️⃣7️⃣ [fs module](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.30-Day25.md#nodejs-%EB%82%B4%EC%9E%A5-%EB%AA%A8%EB%93%88built-in-module) <br/>
-1️⃣8️⃣ [fetch API](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.31-Day26.md#%EF%B8%8Ffetch-api)
+1️⃣8️⃣ [fetch API](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.31-Day26.md#%EF%B8%8Ffetch-api) <br/>
+
+<br/>
+
+### ☑️ React
+
+1️⃣ [React](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.02-Day27.md#%EF%B8%8Freact) <br/>
+2️⃣ [React SPA](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.03-Day28.md#%EF%B8%8Freact-spa) <br/>
+3️⃣ [React Router](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.03-Day28.md#%EF%B8%8Freact-router) <br/>
+4️⃣ [React State & Props](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.07-Day29.md#%EF%B8%8Freact-state--props) <br/>
+5️⃣ [Effect Hook(useEffect)](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.14-Day34.md#%EF%B8%8Feffect-hook) <br/>
+6️⃣ [Component Driven Development (CDD)](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.30-Day47.md#%EF%B8%8Fcomponent-driven-development-cdd) <br/>
+7️⃣ [CDD 개발 도구](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.30-Day47.md#%EF%B8%8Fcdd-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EA%B5%AC) <br/>
+8️⃣ [useRef](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.30-Day47.md#%EF%B8%8Fuseref) <br/>
 
 <br/>
 
@@ -38,6 +52,40 @@
 5️⃣ [Layout](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.03-Day7.md#1%EF%B8%8F%E2%83%A3layout) <br/>
 6️⃣ [Flexbox](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.03-Day7.md#2%EF%B8%8F%E2%83%A3flexbox)
 
+<br/>
+
+### ☑️ HTTP & Network
+
+1️⃣ [Client-Server Architecture](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.09-Day31.md#client-server-architecture-2-tier) <br/>
+2️⃣ [IP & Port](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.09-Day31.md#ip--port) <br/>
+3️⃣ [Doman & DNS](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.09-Day31.md#domain--dns) <br/>
+4️⃣ [HTTP](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.09-Day31.md#%EF%B8%8Fhttp) <br/>
+5️⃣ [Ajax](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.09-Day31.md#ajax) <br/>
+6️⃣ [SSR & CSR](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.09-Day31.md#ssr--csr) <br/>
+7️⃣ [REST API](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.10-Day32.md#%EF%B8%8Frest-api) <br/>
+8️⃣ [Postman](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.13-Day33.md#%EF%B8%8Fpostman) <br/>
+
+<br/>
+
+### ☑️ WebServer
+
+1️⃣ [CORS](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.16-Day36.md#%EF%B8%8Fcors) <br/>
+2️⃣ [Express](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.17-Day37.md#%EF%B8%8Fexpress) <br/>
+
+<br/>
+
+### ☑️ 자료구조 & 알고리즘
+
+1️⃣ [재귀(Recursion)](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.23-Day41.md#%EF%B8%8F%EC%9E%AC%EA%B7%80recursion) <br/>
+
+<br/>
+
+### ☑️ UI/UX
+
+1️⃣ [UI/UX](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.27-Day44.md#%EF%B8%8Fuiux) <br/>
+2️⃣ [WireFrame](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.28-Day45.md#%EF%B8%8Fwireframe) <br/>
+3️⃣ [Prototype](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.28-Day45.md#%EF%B8%8Fprototype) <br/>
+4️⃣ [Figma](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.28-Day45.md#%EF%B8%8Ffigma) <br/>
 <br/>
 
 ### ☑️ OOP
@@ -57,4 +105,5 @@
 2️⃣ [Package & Package-Manager](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.09-Day10.md#2%EF%B8%8F%E2%83%A3%ED%8C%A8%ED%82%A4%EC%A7%80--%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%A4%EB%8B%88%EC%A0%80) <br/>
 3️⃣ [Node.js](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.09-Day10.md#3%EF%B8%8F%E2%83%A3nodejs) <br/>
 4️⃣ [Git (1)](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.09-Day10.md#4%EF%B8%8F%E2%83%A3git) <br/>
-5️⃣ [Git (2)](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.19-Day18.md#%EF%B8%8Flocal-repository)
+5️⃣ [Git (2)](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.19-Day18.md#%EF%B8%8Flocal-repository) <br/>
+6️⃣ [JSON.stringify](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.24-Day42.md#%EF%B8%8Fjsonstringify) <br/>
