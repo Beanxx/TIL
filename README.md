@@ -40,6 +40,7 @@
 6️⃣ [Component Driven Development (CDD)](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.30-Day47.md#%EF%B8%8Fcomponent-driven-development-cdd) <br/>
 7️⃣ [CDD 개발 도구](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.30-Day47.md#%EF%B8%8Fcdd-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EA%B5%AC) <br/>
 8️⃣ [useRef](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.30-Day47.md#%EF%B8%8Fuseref) <br/>
+9️⃣ [Redux](https://github.com/Beanxx/TIL/blob/main/2022.07/%5BTIL%5D%202022.07.06-Day51.md#%EF%B8%8Fredux) <br/>
 
 <br/>
 
@@ -107,3 +108,5 @@
 4️⃣ [Git (1)](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.09-Day10.md#4%EF%B8%8F%E2%83%A3git) <br/>
 5️⃣ [Git (2)](https://github.com/Beanxx/TIL/blob/main/2022.05/%5BTIL%5D%202022.05.19-Day18.md#%EF%B8%8Flocal-repository) <br/>
 6️⃣ [JSON.stringify](https://github.com/Beanxx/TIL/blob/main/2022.06/%5BTIL%5D%202022.06.24-Day42.md#%EF%B8%8Fjsonstringify) <br/>
+7️⃣ [웹 표준](https://github.com/Beanxx/TIL/blob/main/2022.07/%5BTIL%5D%202022.07.08-Day53.md#%EC%9B%B9-%ED%91%9C%EC%A4%80) <br/>
+8️⃣ [SEO](https://github.com/Beanxx/TIL/blob/main/2022.07/%5BTIL%5D%202022.07.08-Day53.md#seo) <br/>
